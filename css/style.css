@@ -94,7 +94,7 @@ header.masthead h1 {
     font-size: 3rem;
   }
 }
-/* @media (min-width: 1280px) {
+@media (min-width: 1280px) {
   header.masthead {
     padding-top: 17rem;
     padding-bottom: 3rem;
@@ -102,8 +102,8 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
-} */
-@media (min-width: 1368px) {
+}
+/* @media (min-width: 1368px) {
   header.masthead {
     padding-top: 19rem;
     padding-bottom: 3rem;
@@ -111,7 +111,7 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
-}
+} */
   @media (min-width: 1450px) {
     header.masthead {
       padding-top: 27rem;
